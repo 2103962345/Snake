@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SnakeGame</string>
+    <string name="startButton">Start</string>
+    <string name="pauseButton">Pause</string>
+    <string name="restartButton">Restart</string>
+    <style name="bold"><item name="android:textSize">20sp</item></style>
+    <string name="score">Your Score was: </string>
+    <string name="description">Snake, swipe in the direction you want to move</string>
+    <color name="RED">#F00</color>
+    <string name="highScores">Statistic</string>
+</resources>

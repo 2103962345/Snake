@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2fb603f5ae1eee4069ab6f8c77e8e08271ae0cb">
+        <dex dex="D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2db934d01cc748f22c977d6a6a7d7f611d3226e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c46bd14df9a410f7b44bd8cda0d073a60ad82702">
+        <dex dex="D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7d82192272fd68a851dfb9d655b699fe2963fd5e\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\Snake31\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 34,
+                    "endOffset": 85
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\Snake31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 34,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 90,
+                    "endColumn": 46,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\Snake31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 86,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\Snake31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 86,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 48,
+                    "endOffset": 268
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\Snake31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 48,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 273,
+                    "endColumn": 45,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\Snake31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 45,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 49,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\Snake31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 49,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 50,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\Snake31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 50,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 45,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\Snake31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 45,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 72,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "D:\\University\\Programmirovanie_mobilnykh_sistem_Internet\\Snake31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 72,
+                        "endOffset": 312
+                    }
+                }
+            }
+        ]
+    }
+]

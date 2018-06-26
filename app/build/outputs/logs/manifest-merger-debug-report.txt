@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:3:7-35
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:4:7-32
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:4:33-56
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:5:15-40
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml
+		INJECTED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:5-17:19
+	android:hasCode
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:340-362
+	android:allowTaskReparenting
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:304-339
+	android:icon
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:45-74
+	android:description
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:143-184
+	android:restoreNeedsApplication
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:265-303
+	android:enabled
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:185-207
+	android:label
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:75-107
+	android:allowClearUserData
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:108-142
+	android:killAfterRestore
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:233-264
+	android:debuggable
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:390-416
+	android:testOnly
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:208-232
+	android:allowBackup
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:18-44
+	android:persistent
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:7:363-389
+activity#com.snake3.android.Snake3
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:8:9-16:20
+	android:screenOrientation
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:10:19-55
+	android:label
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:9:19-51
+	android:configChanges
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:11:19-69
+	android:name
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:8:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from D:\University\Programmirovanie_mobilnykh_sistem_Internet\Snake31\app\src\main\AndroidManifest.xml:14:27-74

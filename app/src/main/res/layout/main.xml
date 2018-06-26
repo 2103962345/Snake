@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <com.snake3.android.playField android:id="@+id/playField1" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:layout_width="fill_parent" android:layout_height="fill_parent"></com.snake3.android.playField>
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/button1" android:layout_centerVertical="true" android:layout_centerHorizontal="true" android:background="@drawable/button" android:textAppearance="@style/bold" android:freezesText="true" android:textColor="@color/RED" android:text="@string/startButton"></Button>
+    <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Button" android:id="@+id/button2" android:layout_alignParentTop="true" android:layout_alignParentRight="true"></Button>
+    <ImageView android:layout_width="wrap_content" android:src="@drawable/logo" android:layout_height="wrap_content" android:id="@+id/imageView1" android:layout_alignParentTop="true" android:layout_centerHorizontal="true"></ImageView>
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/button3" android:layout_below="@+id/button1" android:layout_alignLeft="@+id/button1" android:background="@drawable/button" android:layout_centerInParent="true" android:textAppearance="@style/bold" android:focusableInTouchMode="true" android:textColor="@color/RED" android:text="@string/highScores"></Button>
+   </RelativeLayout>
